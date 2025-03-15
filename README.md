@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olivier</h1>
-<h3 align="center">A passionate web developer from Strasbourg, France</h3>
+<h3 align="center">A passionate analyst developer from Strasbourg, France</h3>
 
-- 🌱 I’m currently learning **Software Architecture, Design Patterns, Clean Code**
+- 🌱 I’m currently learning **Microsoft Dynamics 365 Business Central**
 
 - 📫 How to reach me **roosolivier@gmail.com**
 
